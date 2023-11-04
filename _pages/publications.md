@@ -24,13 +24,13 @@ At the [Center on Long-term Risk](https://longtermrisk.org/), I'm using mathemat
 
 [Type-2 Feedback Computability](https://drive.google.com/file/d/1UCTPnPB5ke6SKkEe27lfE0oXYwlfEqYh/view). Juan Aguilera, **Martín Soto**. _Submitted for publication_
 
-[Logically Updateless Decision-Making](https://drive.google.com/file/d/17_tLa8UD-BWi_D54hPqgmSQvMOS7LLwN/view?usp=sharing). **Martín Soto**, Abram Demski, Alex Appel. _Technical report, PIBBSS Symposium 2023. Paper coming soon_. 
+[Logically Updateless Decision-Making](https://drive.google.com/file/d/17_tLa8UD-BWi_D54hPqgmSQvMOS7LLwN/view?usp=sharing). **Martín Soto**, Abram Demski, Alex Appel. _Technical report, PIBBSS Symposium 2023. Working paper_. 
 
-[The real numbers in inner models of set theory]([https://arxiv.org/abs/2305.16860](https://arxiv.org/abs/2206.10754)). **Martín Soto**. _Bachelor's Thesis, arXiv preprint (arXiv:2206.10754), and BSMC, Submitted for publication_.
+[The real numbers in inner models of set theory](https://arxiv.org/abs/2206.10754). **Martín Soto**. _Bachelor's Thesis, arXiv preprint (arXiv:2206.10754), and BSMC, Submitted for publication_.
 
 [Network-Iterated Prisoner's Dilemma](https://arxiv.org/abs/2211.16329). **Martín Soto**. _Bachelor's Thesis, arXiv preprint (arXiv:2211.16329)_.
 
-[Alpha-divergence Variational Inference Meets Importance Weighted Auto-Encoders: Methodology and Asymptotics](https://arxiv.org/abs/2210.06226). Kamélia Daudel, **Joe Benton**\*, Yuyang Shi\*, Arnaud Doucet. _Journal of Machine Learning Research_, 24(243):1−83, 2023.
+[The marginal impact of cooperation-inducing interventions](https://arxiv.org/abs/2210.06226). **Martín Soto**, Tristan Cook. _Working paper_.
 
 [Polysemanticity and Capacity in Neural Networks](https://arxiv.org/abs/2210.01892). Adam Scherlis, Kshitij Sachan, Adam S. Jermyn, **Joe Benton**, Buck Shlegeris. _arXiv preprint, arXiv:2210.01892_
 
