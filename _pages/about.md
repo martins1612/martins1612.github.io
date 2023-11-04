@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Joe Benton"
+excerpt: "Martín Soto"
 author_profile: true
 redirect_from: 
   - /about/
