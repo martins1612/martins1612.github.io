@@ -31,6 +31,13 @@ At the [Center on Long-term Risk](https://longtermrisk.org/), I'm using mathemat
 
 [The marginal impact of cooperation-inducing interventions](https://arxiv.org/abs/2210.06226). **Martín Soto**, Tristan Cook. _Working paper_.
 
-<!-- ## Talks
+## Talks
 
-Some talks will go here -->
+[Open-source Game Theory](https://drive.google.com/file/d/1hoRMfdDCZx4AAgzYgA9Q0QGstXCeT_RC/view), in _Logic Seminar Barcelona 2023_.
+
+[How can we effectively govern artificial intelligence?](https://www.linkedin.com/posts/melanie-anne-brennan_aialignment-effective-governance-activity-7089995577349783552-YTMU?utm_source=share&utm_medium=member_desktop), in _Adevinta Barcelona_ for _Effective Altruism Barcelona_.
+
+[Logic & Music](https://www.youtube.com/watch?v=X9weXx30svU&t=1027s&ab_channel=ConservatoriCMMB), in _Music and Engineering 2022_, invited speaker at the _Polytechnic University of Barcelona_.
+
+[Logic & Mathematics](https://www.youtube.com/watch?v=q4XL-Vot77I&t=2926s), in _Music and Engineering 2020_, invited panelist at the _Polytechnic University of Barcelona_.
+
