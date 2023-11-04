@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Martín Soto"
 title_separator          : "-"
 name                     : &name "Martín Soto"
-description              : &description "Graduate researcher on Mathematical Logic   and AI Safety"
+description              : &description "Graduate researcher on Mathematical Logic      and AI Safety"
 url                      : https://martinsq29.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "martinsq29.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Martín Soto"
   avatar           : "profile.jpg"
-  bio              : "Graduate researcher on Mathematical Logic   and AI Safety"
+  bio              : "Graduate researcher on Mathematical Logic      and AI Safety"
   location         : "London, UK"
   employer         :
   pubmed           :
