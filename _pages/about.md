@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-Hi, I'm Martín! I’m currently an M.Sc. student in Pure and Applied Logic at the University of Barcelona, supervised by [Albert Atserias](https://www.cs.upc.edu/~atserias/) on the computational complexity of bounded arithmetics, and also working with [Juan Aguilera](https://juan.ag/) on higher-order computability and non-classical logics.
+Hi, I'm Martín! I’m currently an M.Sc. student in Pure and Applied Logic at the University of Barcelona, supervised by [Albert Atserias](https://www.cs.upc.edu/~atserias/) on computational complexity, and also working with [Juan Aguilera](https://juan.ag/) on higher-order computability and non-classical logics.
 
 Driven by ethics, I'm passionate about using theoretical tools to ensure that [advanced artificial intelligence is beneficial for humanity](https://www.safe.ai/ai-risk). That's why I've spent the last year collaborating with several AI safety research organizations. Right now I'm working with the [Center on Long-term Risk](https://longtermrisk.org/) on mathematical modelling to understand and prevent machine-augmented power conflict. I've also worked on AI-relevant applications of Decision Theory for [PIBBSS](https://www.pibbss.ai/fellowship), and on Machine Learning Theory for [MATS](https://www.matsprogram.org/). For more about my research, see [here](martinsq29.github.io/research).
 
