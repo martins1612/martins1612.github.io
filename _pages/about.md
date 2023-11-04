@@ -16,4 +16,4 @@ Driven by ethics, I'm passionate about using theoretical tools to ensure that [a
 
 Outside my research, I'm a professional graduate in piano interpretation by the Conservatory of Barcelona, co-founder of a student group for [animal welfare](https://www.youtube.com/channel/UCUk1X0IHJQjpEjnnu4x71wQ) and a local social initiative for the right to housing, and consider myself a part of the [Effective Altruism](https://www.effectivealtruism.org/) community.
 
-In my spare time, I also play the church organ and the trumpet, and you'll typically find me reading Nabokov or [Greg Egan](https://en.wikipedia.org/wiki/Greg_Egan), running around North London or playing board games with friends. To get in touch, you can email me at [benton@stats.ox.ac.uk](mailto:benton@stats.ox.ac.uk).
+In my spare time, I also play the church organ and the trumpet, and you'll typically find me reading Nabokov or [Greg Egan](https://en.wikipedia.org/wiki/Greg_Egan), running around North London or playing board games with friends. To get in touch, you can email me at [martinsotoq2911@gmail.com](mailto:martinsotoq2911@gmail.com).
