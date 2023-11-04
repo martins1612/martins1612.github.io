@@ -25,7 +25,7 @@ At the [Center on Long-term Risk](https://longtermrisk.org/), I'm using mathemat
 
 [Logically Updateless Decision-Making](https://drive.google.com/file/d/17_tLa8UD-BWi_D54hPqgmSQvMOS7LLwN/view?usp=sharing). **Martín Soto**, Abram Demski, Alex Appel. _Technical report, PIBBSS Symposium 2023. Working paper_. 
 
-[The real numbers in inner models of set theory](https://arxiv.org/abs/2206.10754). **Martín Soto**. _Bachelor's Thesis, arXiv preprint (arXiv:2206.10754), and BSMC, Submitted for publication_.
+[The real numbers in inner models of set theory](https://arxiv.org/abs/2206.10754). **Martín Soto**. _Bachelor's Thesis, arXiv preprint (arXiv:2206.10754), and Submitted for publication_.
 
 [Network-Iterated Prisoner's Dilemma](https://arxiv.org/abs/2211.16329). **Martín Soto**. _Bachelor's Thesis, arXiv preprint (arXiv:2211.16329)_.
 
@@ -35,7 +35,7 @@ At the [Center on Long-term Risk](https://longtermrisk.org/), I'm using mathemat
 
 [Open-source Game Theory](https://drive.google.com/file/d/1hoRMfdDCZx4AAgzYgA9Q0QGstXCeT_RC/view), in _Logic Seminar Barcelona 2023_.
 
-[How can we effectively govern artificial intelligence?](https://www.linkedin.com/posts/melanie-anne-brennan_aialignment-effective-governance-activity-7089995577349783552-YTMU?utm_source=share&utm_medium=member_desktop), in _Adevinta Barcelona_ for _Effective Altruism Barcelona_.
+[How can we effectively govern artificial intelligence?](https://www.linkedin.com/posts/melanie-anne-brennan_aialignment-effective-governance-activity-7089995577349783552-YTMU?utm_source=share&utm_medium=member_desktop), in _Adevinta Barcelona 2023_ for _Effective Altruism Barcelona_.
 
 [Logic & Music](https://www.youtube.com/watch?v=X9weXx30svU&t=1027s&ab_channel=ConservatoriCMMB), in _Music and Engineering 2022_, invited speaker at the _Polytechnic University of Barcelona_.
 
