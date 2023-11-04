@@ -15,25 +15,21 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-I’m currently a PhD student in the Department of Statistics at the University of Oxford, as part of the [StatML CDT](https://statml.io/). I’m supervised by [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/) and [George Deligiannidis](https://www.stats.ox.ac.uk/~deligian/), and am working on generative modelling theory with a particular focus on diffusion models. I've previously studied generalizations of diffusion models to arbitrary state spaces, and am currently exploring performance guarantees for diffusion methods and related techinques.
+In academia, I'm working on the computational complexity of [bounded arithmetics](https://arxiv.org/pdf/2303.01016.pdf) supervised by [Albert Atserias](https://www.cs.upc.edu/~atserias/), although soon I'll begin applying tools from computational complexity to [Machine Learning robustness](https://arxiv.org/pdf/2204.06974.pdf). I'm also working with [Juan Aguilera](https://juan.ag/) on [higher-order computability](https://drive.google.com/file/d/1UCTPnPB5ke6SKkEe27lfE0oXYwlfEqYh/view) and non-classical logics. 
 
-I'm also interested in interpretability of machine learning systems (especially from a safety perspective) and continue to think about feature representation and automatic detection of sparse features in model activations. At Redwood Research, I worked on applications of interpretability techniques for mechanistic anomaly detection. 
+At the [Center on Long-term Risk](https://longtermrisk.org/), I'm using mathematical modelling to understand machine-augmented power conflict, and build robust [game-theoretic mechanisms for cooperation](https://drive.google.com/file/d/1hoRMfdDCZx4AAgzYgA9Q0QGstXCeT_RC/view). I'm also working on AI-relevant [algorithmic implementations of Decision Theory](https://www.youtube.com/watch?v=uNv1Cq-aVKY&t=412s&ab_channel=PIBBSSFellowship) with Abram Demski ([Machine Intelligence Research Institute](https://intelligence.org/)). At [MATS](https://www.matsprogram.org/) I pursued conceptual and mathematical research on safety improvements to Language Model training.
 
 ## Publications
 
-[Measuring Feature Sparsity in Language Models](https://arxiv.org/abs/2310.07837). Mingyang Deng, Lucas Tao, **Joe Benton**. _NeurIPS 2023 Workshop on Socially Responsible Language Modelling Research_
+[Type-2 Feedback Computability](https://drive.google.com/file/d/1UCTPnPB5ke6SKkEe27lfE0oXYwlfEqYh/view). Juan Aguilera, **Martín Soto**. _Submitted for publication_
 
-[Linear Convergence Bounds for Diffusion Models via Stochastic Localization](https://arxiv.org/abs/2308.03686). **Joe Benton**, Valentin De Bortoli, Arnaud Doucet, George Deligiannidis. _arXiv preprint, arXiv2308.03686_. 
+[Logically Updateless Decision-Making](https://drive.google.com/file/d/17_tLa8UD-BWi_D54hPqgmSQvMOS7LLwN/view?usp=sharing). **Martín Soto**, Abram Demski, Alex Appel. _Technical report, PIBBSS Symposium 2023. Working paper_. 
 
-[Error Bounds for Flow Matching Methods](https://arxiv.org/abs/2305.16860). **Joe Benton**, George Deligiannidis, Arnaud Doucet. _arXiv preprint, arXiv:2305.16860_.
+[The real numbers in inner models of set theory](https://arxiv.org/abs/2206.10754). **Martín Soto**. _Bachelor's Thesis, arXiv preprint (arXiv:2206.10754), and BSMC, Submitted for publication_.
 
-[From Denoising Diffusions to Denoising Markov Models](https://arxiv.org/abs/2211.03595). **Joe Benton**, Yuyang Shi, Valentin De Bortoli, George Deligiannidis, Arnaud Doucet. _Journal of the Royal Statistical Society, Series B_, 2023. To appear.
+[Network-Iterated Prisoner's Dilemma](https://arxiv.org/abs/2211.16329). **Martín Soto**. _Bachelor's Thesis, arXiv preprint (arXiv:2211.16329)_.
 
-[Alpha-divergence Variational Inference Meets Importance Weighted Auto-Encoders: Methodology and Asymptotics](https://arxiv.org/abs/2210.06226). Kamélia Daudel, **Joe Benton**\*, Yuyang Shi\*, Arnaud Doucet. _Journal of Machine Learning Research_, 24(243):1−83, 2023.
-
-[Polysemanticity and Capacity in Neural Networks](https://arxiv.org/abs/2210.01892). Adam Scherlis, Kshitij Sachan, Adam S. Jermyn, **Joe Benton**, Buck Shlegeris. _arXiv preprint, arXiv:2210.01892_
-
-[A Continuous Time Framework for Discrete Denoising Models](https://arxiv.org/abs/2205.14987). Andrew Campbell, **Joe Benton**, Valentin De Bortoli, Tom Rainforth, George Deligiannidis, Arnaud Doucet. _Advances in Neural Information Processing Systems, 2022_
+[The marginal impact of cooperation-inducing interventions](https://arxiv.org/abs/2210.06226). **Martín Soto**, Tristan Cook. _Working paper_.
 
 <!-- ## Talks
 
