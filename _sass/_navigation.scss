@@ -175,7 +175,6 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
 
   a {
     display: block;
@@ -267,7 +266,7 @@
 
       &:hover {
         color: $masthead-link-color-hover;
-        background: mix(#fff, $primary-color, 75%);
+        background: #fff;
       }
     }
 
@@ -406,7 +405,7 @@
 
     &:hover {
       color: #000;
-      background: $lighter-gray;
+      background: #fff;
     }
   }
 
