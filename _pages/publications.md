@@ -29,7 +29,7 @@ At the [Center on Long-term Risk](https://longtermrisk.org/), I'm using mathemat
 
 [Network-Iterated Prisoner's Dilemma](https://arxiv.org/abs/2211.16329). **Martín Soto**. _Bachelor's Thesis, arXiv preprint (arXiv:2211.16329)_.
 
-[The marginal impact of cooperation-inducing interventions](https://arxiv.org/abs/2210.06226). **Martín Soto**, Tristan Cook. _Working paper_.
+The marginal impact of cooperation-inducing interventions. **Martín Soto**, Tristan Cook. _Working paper_.
 
 ## Talks
 
