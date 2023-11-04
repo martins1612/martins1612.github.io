@@ -22,13 +22,13 @@ At the [Center on Long-term Risk](https://longtermrisk.org/), I'm using mathemat
 
 ## Publications
 
-[Type-2 Feedback Computability]([https://arxiv.org/abs/2310.07837](https://drive.google.com/file/d/1UCTPnPB5ke6SKkEe27lfE0oXYwlfEqYh/view)). Juan Aguilera, **Martín Soto**. _Submitted for publication_
+[Type-2 Feedback Computability](https://drive.google.com/file/d/1UCTPnPB5ke6SKkEe27lfE0oXYwlfEqYh/view). Juan Aguilera, **Martín Soto**. _Submitted for publication_
 
 [Logically Updateless Decision-Making](https://drive.google.com/file/d/17_tLa8UD-BWi_D54hPqgmSQvMOS7LLwN/view?usp=sharing). **Martín Soto**, Abram Demski, Alex Appel. _Technical report, PIBBSS Symposium 2023. Paper coming soon_. 
 
-[Error Bounds for Flow Matching Methods](https://arxiv.org/abs/2305.16860). **Martín Soto**, Abram Demski, Alex Appel. _arXiv preprint, arXiv:2305.16860_.
+[The real numbers in inner models of set theory]([https://arxiv.org/abs/2305.16860](https://arxiv.org/abs/2206.10754)). **Martín Soto**. _Bachelor's Thesis, arXiv preprint (arXiv:2206.10754), and BSMC, Submitted for publication_.
 
-[From Denoising Diffusions to Denoising Markov Models](https://arxiv.org/abs/2211.03595). **Joe Benton**, Yuyang Shi, Valentin De Bortoli, George Deligiannidis, Arnaud Doucet. _Journal of the Royal Statistical Society, Series B_, 2023. To appear.
+[Network-Iterated Prisoner's Dilemma](https://arxiv.org/abs/2211.16329). **Martín Soto**. _Bachelor's Thesis, arXiv preprint (arXiv:2211.16329)_.
 
 [Alpha-divergence Variational Inference Meets Importance Weighted Auto-Encoders: Methodology and Asymptotics](https://arxiv.org/abs/2210.06226). Kamélia Daudel, **Joe Benton**\*, Yuyang Shi\*, Arnaud Doucet. _Journal of Machine Learning Research_, 24(243):1−83, 2023.
 
