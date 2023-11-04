@@ -32,10 +32,6 @@ At the [Center on Long-term Risk](https://longtermrisk.org/), I'm using mathemat
 
 [The marginal impact of cooperation-inducing interventions](https://arxiv.org/abs/2210.06226). **Martín Soto**, Tristan Cook. _Working paper_.
 
-[Polysemanticity and Capacity in Neural Networks](https://arxiv.org/abs/2210.01892). Adam Scherlis, Kshitij Sachan, Adam S. Jermyn, **Joe Benton**, Buck Shlegeris. _arXiv preprint, arXiv:2210.01892_
-
-[A Continuous Time Framework for Discrete Denoising Models](https://arxiv.org/abs/2205.14987). Andrew Campbell, **Joe Benton**, Valentin De Bortoli, Tom Rainforth, George Deligiannidis, Arnaud Doucet. _Advances in Neural Information Processing Systems, 2022_
-
 <!-- ## Talks
 
 Some talks will go here -->
