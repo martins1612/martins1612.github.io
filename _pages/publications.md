@@ -39,5 +39,5 @@ The marginal impact of cooperation-inducing interventions. **Martín Soto**, Tri
 
 [Logic & Music](https://www.youtube.com/watch?v=X9weXx30svU&t=1027s&ab_channel=ConservatoriCMMB), in _Music and Engineering 2022_, invited speaker at the _Polytechnic University of Barcelona_.
 
-[Logic & Mathematics](https://www.youtube.com/watch?v=q4XL-Vot77I&t=2926s), in _Music and Engineering 2020_, invited panelist at the _Polytechnic University of Barcelona_.
+[Music & Mathematics](https://www.youtube.com/watch?v=q4XL-Vot77I&t=2926s), in _Music and Engineering 2020_, invited panelist at the _Polytechnic University of Barcelona_.
 
